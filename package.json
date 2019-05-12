@@ -1,0 +1,23 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "basic app used to learn node ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon index"
+  },
+  "keywords": [
+    "blog",
+    "express"
+  ],
+  "author": "tochukwu ibe",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-edge": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
